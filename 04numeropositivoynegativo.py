@@ -1,3 +1,4 @@
+# axel sebastian valdez lopez
 # Programa para identificar si un número es positivo, negativo o cero
 
 numero = float(input("Ingresa un número: "))
