@@ -1,3 +1,4 @@
+# axel sebastian valdez lopez
 # Programa para calcular el precio con descuento
 
 precio = float(input("Ingresa el precio original: "))
